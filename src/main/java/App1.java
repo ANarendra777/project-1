@@ -6,5 +6,7 @@ public class App1 {
             System.out.println(i);
         }
         System.out.println("Application execution completed.");
+        System.out.println("Thank you for using the DevOps Java Application.");
+        System.out.println("💕Goodbye!💕");
     }
 }
