@@ -5,5 +5,6 @@ public class App1 {
         for (int i = 1; i <= 5; i++) {
             System.out.println(i);
         }
+        System.out.println("Application execution completed.");
     }
 }
